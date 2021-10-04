@@ -1,0 +1,4 @@
+,Model,Predict_time,AUC_Score,Accuracy
+0,Original tweets,212.5,71.081%,70.860%
+1,Cleaned tweets,197.2,76.187%,76.148%
+2,Lemmatized tweets,198.2,74.595%,74.633%
