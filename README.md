@@ -18,6 +18,8 @@ We benchmark 3 approaches:
 - :heavy_check_mark: Deploy the best model for real-time inferencing and publish endpoint;
 - :heavy_check_mark: Write a blog article.
 
+<img src='\pictures\summary_of_models_performance.png'>
+
 # :computer: Dependencies
 NLTK, Spacy, WordCloud, Azure ML/AI SDK, scikit-learn, Azure Portal, Azure Machine Learning Studio, Tensorflow/Keras, Google Colab (with GPU), Tensorboard, pretrained word embeddings (Word2Vec, GloVE, USE)
 
