@@ -6,11 +6,14 @@
     - Standard: tweet corrections (url, user, hashtag), remove null and duplicates, remove punctuations;
     - Advanced: standard preprocessing + remove stopwords, lemmatization (spacy)
 
-**Sentiment distribution**
+## **Sentiment distribution**
+
 <img src='/pictures\sentiment_distribution.png'>
 
-**Standard preprocessing - Most common words**
+## **Standard preprocessing - Most common words**
+
 <img src='/pictures\most_common_words_w_standard_preprocessing.png'>
 
-**Advanced preprocessing - Most common words**
+## **Advanced preprocessing - Most common words**
+
 <img src='/pictures\most_common_words_w_advanced_preprocessing.png'>
