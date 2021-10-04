@@ -14,7 +14,7 @@ We benchmark 3 approaches:
 - :heavy_check_mark: Use Azure Text Analytics - Sentiment Analysis;
 - :heavy_check_mark: Use AMLS Designer, Logistic Regression model, and 2 text vectorizations;
 - :heavy_check_mark: Use Tensorflow / Keras with RNN / LTSM and word embeddings (from scratch and pre-trained);
-- :heavy_check_mark: Compare all approaches;
+- :heavy_check_mark: Compare all approaches and evaluate performance (AUC, Accuracy);
 - :heavy_check_mark: Deploy the best model for real-time inferencing and publish endpoint;
 - :heavy_check_mark: Write a blog article.
 
