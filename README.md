@@ -1,5 +1,5 @@
 # :dart: Sentiment Analysis
-Perform sentiment analysis with tweets.
+Perform binary sentiment analysis (positive / negative) with tweets.
 
 We benchmark 3 approaches:
 - Turn-Key Solutions with Microsoft Cognitive Services (Sentiment Analysis);
